@@ -8,7 +8,7 @@ Donate link: https://www.shapeyourbits.co.uk/
 Requires at least: 5.7
 Requires PHP: 8.0
 Tested up to: 6.9
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,6 +57,9 @@ Yes completely free!
 Absolutely check out our <a href="https://www.shapeyourbits.co.uk/">website</a>.
 
 == Changelog ==
+= 1.0.1 =
+* Adding the icon for Wordpress.org listing
+
 = 1.0.0 =
 * Intial Release, it's in use on production for a client with no issues.
 
